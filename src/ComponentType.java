@@ -1,10 +1,4 @@
 /**
- * Name: Arnab Bhowmik
- * ID: 115610923
- * Recitation Section: 1
- */
-
-/**
  * Represents the component type of a node
  */
 public enum ComponentType {

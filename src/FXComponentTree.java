@@ -1,8 +1,3 @@
-/**
- * Name: Arnab Bhowmik
- * ID: 115610923
- * Recitation Section: 1
- */
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.io.File;
