@@ -308,8 +308,7 @@ public class FXComponentTree {
             }
         }
     }
-    //Extra Credit
-
+    //for FXML file output
     /**
      * Creates a valid FXML file that can be opened in SceneBuilder
      * @param tree FXComponentTree to write the contents of in fxml
